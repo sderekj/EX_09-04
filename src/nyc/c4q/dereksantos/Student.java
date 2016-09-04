@@ -17,9 +17,9 @@ public class Student {
         this.favoriteFood = favoriteFood;
     }
 
-    public Student(String favoriteFood) {
-        this.favoriteFood = favoriteFood;
-    }
+//    public Student(String favoriteFood) {
+//        this.favoriteFood = favoriteFood;
+//    }
 
     public String getFirstName() {
         return firstName;
@@ -52,4 +52,11 @@ public class Student {
     public void setFavoriteFood(String favoriteFood) {
         this.favoriteFood = favoriteFood;
     }
+
+    public static boolean checkSameFavoriteFood(Student student1, Student student2) {
+
+        return student1.getFavoriteFood().equalsIgnoreCase(student2.getFavoriteFood());
+
+    }
+
 }

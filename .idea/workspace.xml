@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/dereksantos/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+              <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -34,27 +34,25 @@
       <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nyc/c4q/dereksantos/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#809#810#0" expanded="true" />
-                <element signature="e#849#850#0" expanded="true" />
-                <element signature="e#881#882#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#997#998#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1175#1176#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#963#964#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
+                <element signature="e#1181#1182#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,8 +75,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/nyc/c4q/dereksantos/Student.java" />
         <option value="$PROJECT_DIR$/src/nyc/c4q/dereksantos/Main.java" />
+        <option value="$PROJECT_DIR$/src/nyc/c4q/dereksantos/Student.java" />
       </list>
     </option>
   </component>
@@ -470,27 +468,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/dereksantos/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,7 +494,7 @@
     <entry file="file://$PROJECT_DIR$/src/nyc/c4q/dereksantos/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
           <folding />
         </state>
       </provider>
